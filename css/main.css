@@ -1,6 +1,19 @@
 body{
     background-color: black;
+    font-family: 'Source Sans Pro', sans-serif;
 }
 .container{
-    background-color: grey;
+    background-color: rgb(187, 185, 185);
+    margin-top: 20px;
+    height: 96vh;
+    padding-top: 20px;
+}
+.box-form{
+    padding: 1rem 1.4rem;
+    margin: 0px 7px;
+    background-color: white;
+}
+form{
+    margin: 20px 10px;
+    height: 58vh;
 }
