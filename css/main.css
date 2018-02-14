@@ -2,18 +2,24 @@ body{
     background-color: black;
     font-family: 'Source Sans Pro', sans-serif;
 }
-.container{
-    background-color: rgb(187, 185, 185);
+.container-login{
+    background-color: rgba(207, 206, 206, 0.993);
     margin-top: 20px;
     height: 96vh;
     padding-top: 20px;
+    border-radius: 3px;
 }
 .box-form{
     padding: 1rem 1.4rem;
     margin: 0px 7px;
     background-color: white;
+    border-radius: 3px;
 }
 form{
     margin: 20px 10px;
     height: 58vh;
+}
+
+h1 i{
+    color: rgb(95, 95, 247);
 }
