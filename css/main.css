@@ -6,7 +6,7 @@ body{
     background-color: black;
 }
 .box-background2{
-    background-color: rgb(236, 233, 233);
+    background-color: rgb(189, 228, 250);
 }
 .container-login{
     background-color: rgba(207, 206, 206, 0.993);
@@ -29,16 +29,20 @@ form{
 h1 i{
     color: rgb(95, 95, 247);
 }
+h4{
+    background-color: black;
+    color:white;
+}
 .box-profile{
-    background-color: white;
+    background-color: rgba(255, 255, 255, 0.849);
     box-shadow: 0px 2px 12px 1px #c0bdbd;
     padding: 20px;
     height: 98vh;
 }
-.photo{
+/* .photo{
     margin-left: 29%;
     margin-bottom: 20px;
-}
+} */
 .box-text{
     padding: 40px;
 }
