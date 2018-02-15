@@ -12,7 +12,15 @@ Las tecnologías que se usaron para crear nuestra web son:
 - API LinkedIn
 
 CONTENIDO  
-- Vista para iniciar sesión usando linkdln y vista de perfil de usuario con datos obtenidos de linkdln.
+- Vista para iniciar sesión usando linkdln, vista login y vista de perfil de usuario con datos obtenidos de linkdln.
+
+**Vista inicio** 
+
+![inicio](public/assets/images/first-view.png)
+
+**Vista Login** 
+
+![login](public/assets/images/login.png)
 
 
 
