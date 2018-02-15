@@ -14,7 +14,9 @@ body{
 }
 
 .container-login{
-  background-color: rgba(207, 206, 206, 0.993);
+  /* background-color: rgba(207, 206, 206, 0.993); */
+  background: url('../assets/images/inicio.jpg');
+  width:100%;
   margin-top: 20px;
   height: 96vh;
   padding-top: 20px;
